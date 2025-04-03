@@ -1,7 +1,7 @@
 ### <div align="center">
 👋🏼 Hi, I'm Aayush!
 
-📖 I’m pursuing Computer Science at [State Technological University, Madhya Pradesh](https://www.rgpv.ac.in/), Bhopal and undergraduate diploma in Programming at the [IIT-M online](https://study.iitm.ac.in/diploma/) 
+📖 I’m pursuing Computer Science at [State Technological University, Madhya Pradesh](https://www.rgpv.ac.in/) and undergraduate diploma in Programming at the [IIT-M online](https://study.iitm.ac.in/diploma/) 
 
 🌐 Contributing and following open-source curriculum @ [OSSU](https://cs.ossu.dev/)
 
