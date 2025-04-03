@@ -2,10 +2,9 @@
   
 
 ### <div align="center">
-<img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1655638854060130304/X5t3GrJ__400x400.jpg" alt="Aayush Sinha dp" height="50" />
 👋🏼 Hi, I'm Aayush!
 
-📖 I’m pursuing Computer Science at [Rajiv Gandhi Technical University](https://www.rgpv.ac.in/), Bhopal. undergraduate diploma in Programming) at the [IIT-M online](https://study.iitm.ac.in/diploma/) and 
+📖 I’m pursuing Computer Science at [Rajiv Gandhi Technical University](https://www.rgpv.ac.in/), Bhopal. undergraduate diploma in Programming at the [IIT-M online](https://study.iitm.ac.in/diploma/) and 
 
 💻 Outside academics, I'm passionate about contributing to open-source projects and industrial codebases, with a focus on full stack web development and blockchain</div>  
   
