@@ -1,10 +1,11 @@
 ### <div align="center">
 👋🏼 Hi, I'm Aayush!
 
-📖 I’m pursuing Computer Science at [Rajiv Gandhi Technical University](https://www.rgpv.ac.in/), Bhopal. undergraduate diploma in Programming at the [IIT-M online](https://study.iitm.ac.in/diploma/) and 
+📖 I’m pursuing Computer Science at [State Technological University, Madhya Pradesh](https://www.rgpv.ac.in/), Bhopal and undergraduate diploma in Programming at the [IIT-M online](https://study.iitm.ac.in/diploma/) 
 
-💻 Outside academics, I'm passionate about contributing to open-source projects and industrial codebases, with a focus on full stack web development and blockchain</div>  
-  
+🌐 Contributing and following open-source curriculum @ [OSSU](https://cs.ossu.dev/)
+
+💻 Passionate about full-stack web development, blockchain, and open-source.</div>  
 
 - 🔭 I’m currently learning @ [Full Stack Open](https://fullstackopen.com/en/)  
   
