@@ -56,7 +56,8 @@
 <a href="https://eslint.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-plain-wordmark.svg" alt="ESLint" height="50" /></a> 
 <a href="https://axios-http.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" alt="Axios" height="50" /></a> 
 <a href="https://mongoosejs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" alt="Mongoose" height="50" /></a> 
-<a href="https://orm.drizzle.team/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1767809210060877824/mAtEmNk0_400x400.jpg" alt="Drizzle" height="50" /></a> 
+<a href="https://orm.drizzle.team/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1767809210060877824/mAtEmNk0_400x400.jpg" alt="Drizzle" height="50" /></a>
+<a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://socket.io/images/logo-dark.svg" alt="Socket.io" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
